@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2C2F8811-C419-423B-9D3B-1E7BD96E46CF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeLinq/Program.cs">
+    <Files>
+      <File FileName="PracticeLinq/Program.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeLinq" expanded="True">
+            <Node name="PracticeLinq" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PracticeLinq PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
